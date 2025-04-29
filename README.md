@@ -9,6 +9,10 @@ Một ứng dụng TodoList đơn giản được xây dựng bằng **Java Swin
 > _Thêm ảnh chụp màn hình tại đây (ví dụ: ảnh minh họa giao diện chính của ứng dụng)_
 
 ![Screenshot Placeholder](img/demo.png)
+![Screenshot Placeholder](img/demo-add.png)
+![Screenshot Placeholder](img/demo-remove.png)
+![Screenshot Placeholder](img/demo-update.png)
+![Screenshot Placeholder](img/demo-isCompleted.png)
 
 ---
 
